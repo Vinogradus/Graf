@@ -89,13 +89,13 @@
 
 vvedite spisok smegnosti kak:
 
-1 <smegnie vershini cherez probel> -1
+1 smegnie vershini cherez probel -1
   
-2 <smegnie vershini cherez probel> -1
+2 smegnie vershini cherez probel -1
   
 ...
   
-n <smegnie vershini cherez probel> 0
+n smegnie vershini cherez probel 0
   
 
 В качестве примера полный граф на трёх вершинах:
